@@ -30,5 +30,5 @@ Ctrl + z
 ```
 - Para desligar o sistema de forma segura utilize o comando:
 ```
-   Ctrl + c
+Ctrl + c
 ```
